@@ -9,7 +9,6 @@ In the realm of financial markets, chart patterns like "Double Top" and "Double 
 
 1. **Automate Pattern Detection**: Develop a CNN-based model to detect traditional chart patterns in stock market charts.
 2. **Enhance Trading Strategies**: Provide traders with a tool to automate the detection of critical chart patterns.
-3. **Ensure Accuracy and Efficiency**: Achieve a high accuracy rate between 91% and 96%.
 
 ### Data Collection and Preprocessing
 
